@@ -1,9 +1,7 @@
-# Descrizione del task
-
 Introduzione
 ------------
 
-Il presente documento ha lo scopo di descrivere lo studio effettuato sull'utilizzo di PySpark con dati provenienti da fonti esterne:
+Il progetto ha lo scopo l'utilizzo di PySpark con dati provenienti da fonti esterne:
 
 - API pubbliche;
 
